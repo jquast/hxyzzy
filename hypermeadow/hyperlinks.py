@@ -19,7 +19,7 @@ import bs4  # beautifulsoup: provide[s] idiomatic ways of navigating,
             # searching, and modifying the [html] parse tree
             # http://www.crummy.com/software/BeautifulSoup/
 
-_DEF_URL = 'http://rivermeadow.com'
+_DEF_URL = 'http://news.yahoo.com'
 _LOG_FMT = ('%(relativeCreated)7.3f %(levelname)-6s %(threadName)-10s '
             '%(filename)11s:%(lineno)-3s - %(message)s')
 
